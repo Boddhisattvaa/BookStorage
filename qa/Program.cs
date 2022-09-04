@@ -1,0 +1,3 @@
+﻿using qa;
+
+Menu.PrintMenu();
